@@ -1,0 +1,8 @@
+C:\Stuff\SaiFinserv\SaiVeri\SaiVeri\bin\Debug\SaiVeri.exe
+C:\Stuff\SaiFinserv\SaiVeri\SaiVeri\bin\Debug\SaiVeri.pdb
+C:\Stuff\SaiFinserv\SaiVeri\SaiVeri\obj\Debug\ResolveAssemblyReference.cache
+C:\Stuff\SaiFinserv\SaiVeri\SaiVeri\obj\Debug\SaiVeri.Properties.Resources.resources
+C:\Stuff\SaiFinserv\SaiVeri\SaiVeri\obj\Debug\SaiVeri.csproj.GenerateResource.Cache
+C:\Stuff\SaiFinserv\SaiVeri\SaiVeri\obj\Debug\SaiVeri.exe
+C:\Stuff\SaiFinserv\SaiVeri\SaiVeri\obj\Debug\SaiVeri.pdb
+C:\Stuff\SaiFinserv\SaiVeri\SaiVeri\obj\Debug\SaiVeri.Form1.resources
