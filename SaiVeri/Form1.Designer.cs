@@ -98,7 +98,7 @@
             this.Test.Name = "Test";
             this.Test.Size = new System.Drawing.Size(100, 28);
             this.Test.TabIndex = 3;
-            this.Test.Text = "button1";
+            this.Test.Text = "test";
             this.Test.UseVisualStyleBackColor = true;
             this.Test.Click += new System.EventHandler(this.button1_Click);
             // 
