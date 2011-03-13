@@ -21,6 +21,11 @@ namespace SaiVeri
             tabControl1.Size= new Size((this.Size.Width - 50),(this.Size.Height - 100));
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
        
 
        
