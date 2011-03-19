@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaiVeri", "SaiVeri\SaiVeri.csproj", "{B91015EB-8BC6-4725-8535-2169F1447EB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressControl", "AddressControl\AddressControl.csproj", "{640B486E-E847-4483-97F8-3F1A4B4B8045}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{B91015EB-8BC6-4725-8535-2169F1447EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B91015EB-8BC6-4725-8535-2169F1447EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B91015EB-8BC6-4725-8535-2169F1447EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640B486E-E847-4483-97F8-3F1A4B4B8045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640B486E-E847-4483-97F8-3F1A4B4B8045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640B486E-E847-4483-97F8-3F1A4B4B8045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640B486E-E847-4483-97F8-3F1A4B4B8045}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

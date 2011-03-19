@@ -6,3 +6,14 @@ C:\Stuff\SaiFinserv\SaiVeri\SaiVeri\obj\Debug\SaiVeri.csproj.GenerateResource.Ca
 C:\Stuff\SaiFinserv\SaiVeri\SaiVeri\obj\Debug\SaiVeri.exe
 C:\Stuff\SaiFinserv\SaiVeri\SaiVeri\obj\Debug\SaiVeri.pdb
 C:\Stuff\SaiFinserv\SaiVeri\SaiVeri\obj\Debug\SaiVeri.Form1.resources
+C:\Users\sunil\Documents\Visual Studio 2008\Projects\Sai-Veri\SaiVeri\bin\Debug\SaiVeri.exe
+C:\Users\sunil\Documents\Visual Studio 2008\Projects\Sai-Veri\SaiVeri\bin\Debug\SaiVeri.pdb
+C:\Users\sunil\Documents\Visual Studio 2008\Projects\Sai-Veri\SaiVeri\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sunil\Documents\Visual Studio 2008\Projects\Sai-Veri\SaiVeri\obj\Debug\SaiVeri.Form1.resources
+C:\Users\sunil\Documents\Visual Studio 2008\Projects\Sai-Veri\SaiVeri\obj\Debug\SaiVeri.Properties.Resources.resources
+C:\Users\sunil\Documents\Visual Studio 2008\Projects\Sai-Veri\SaiVeri\obj\Debug\SaiVeri.csproj.GenerateResource.Cache
+C:\Users\sunil\Documents\Visual Studio 2008\Projects\Sai-Veri\SaiVeri\obj\Debug\SaiVeri.exe
+C:\Users\sunil\Documents\Visual Studio 2008\Projects\Sai-Veri\SaiVeri\obj\Debug\SaiVeri.pdb
+C:\Users\sunil\Documents\Visual Studio 2008\Projects\Sai-Veri\SaiVeri\bin\Debug\AddressControl.dll
+C:\Users\sunil\Documents\Visual Studio 2008\Projects\Sai-Veri\SaiVeri\bin\Debug\AddressControl.pdb
+C:\Users\sunil\Documents\Visual Studio 2008\Projects\Sai-Veri\SaiVeri\obj\Debug\SaiVeri.AddressControl.resources
